@@ -1,0 +1,1 @@
+const res = await client.query(suppAdd, supp2);
